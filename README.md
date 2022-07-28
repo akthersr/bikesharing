@@ -48,5 +48,4 @@ The following bar chart shows that, the top riding hours during August in New Yo
 
 ### Starting points
 
-The
-
+The following image
