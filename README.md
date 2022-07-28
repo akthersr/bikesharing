@@ -2,7 +2,7 @@
 
 ## Overview of the project
 
-Two tourists from Des Moines,Iowa was fascinated by the NYC Citi Bike sharing service during their last summer trip to New York City and plan to launch a similar business in their hometown. But before analysis, we have to keep in mind that New York is well organized before Des Moines. Where, Manhattan is very densely populated and high traffic tourist areas to run this kind of expansion service for tourists and daily commuters. So our goal is to convince the potential investors that a bike-sharing program in Des Moines is a solid business proposal.
+Two tourists from Des Moines,Iowa was fascinated by the NYC Citi Bike sharing service during their last summer trip to New York City and plan to launch a similar business in their hometown. But before analysis, we have to keep in mind that New York is well organized before Des Moines. Where, Manhattan is very densely populated and possess high traffic tourist areas to run this kind of expansion service for tourists and daily commuters. So our goal is to convince the potential investors that a bike-sharing program in Des Moines is a solid business proposal.
 
 ## Purpose
 
