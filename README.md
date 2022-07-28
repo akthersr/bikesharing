@@ -44,7 +44,7 @@ The below image shows that,the younger riders tend to use the bikes for longer p
 The following bar chart shows that, the top riding hours during August in New York City are 5:00 p.m to 7:00 p.m and the ideal time for bike maintaince are between 
 2:00 a.m. to 5:00 a.m. According to the analysis we found that,this was the least active time for bike riding.
 
-![]()
+![](https://github.com/akthersr/bikesharing/blob/main/august%20pick%20.png)
 
 ### Starting points
 
