@@ -29,7 +29,7 @@ Using Python and Pandas functions, we convert the "tripduration" column from an 
 
 The total number of bike trips recorded during the month of August are 2,344,224. Majority customers of NYC bike-sharing service,are annual subscribers in comperission with customers(short-term riders). Among them, a total of 1,900,359 customers are annual subscribers (81%).
 
-![]()  ![]()
+![](https://github.com/akthersr/bikesharing/blob/main/user%20type%201.png)  ![]()
 
 Current subscribers of Citi Bike are dominantly Male, which was almost 65% of the total users. And the number of female users is 25% .
 
