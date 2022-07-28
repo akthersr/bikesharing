@@ -52,9 +52,11 @@ The below image shows that most trips originate in Manhattan, this area have mor
 
 ![](https://github.com/akthersr/bikesharing/blob/main/top%20starting%20locations.png)
 
-![]()
+![](https://github.com/akthersr/bikesharing/blob/main/top%207.png)
 
 ### Top Ending Locations
+
+The destinations of most trips are same stations where the riders are started their trips.
 
 ![](https://github.com/akthersr/bikesharing/blob/main/top%20ending%20locations1.png)
 
