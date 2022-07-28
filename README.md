@@ -50,7 +50,7 @@ The following bar chart shows that, the top riding hours during August in New Yo
 
 The below image shows that most trips originate in Manhattan, this area have more bike rides due to the number of tourists.
 
-![](https://github.com/akthersr/bikesharing/blob/main/top%20locations.png)
+![](https://github.com/akthersr/bikesharing/blob/main/top%20starting%20locations.png)
 
 ![]()
 
