@@ -22,7 +22,7 @@ The visualization of the story can be found here.
 
 Using Python and Pandas functions, we convert the "tripduration" column from an integer to a datetime datatype and create a dataframe from the data (201908-citibike-tripdata.csv) source.
 
-![]()
+![](https://github.com/akthersr/bikesharing/blob/main/tripduration.png)
 
 
 ### User and Gender BreakDown
@@ -37,7 +37,7 @@ Current subscribers of Citi Bike are dominantly Male, which was almost 65% of th
 
 The below image shows that,the younger riders tend to use the bikes for longer periods of time. The trend shows that, the later the birth year, the longer the ride duration.  
 
-![]()
+![](https://github.com/akthersr/bikesharing/blob/main/average%20trip%20duration.png)
 
 ### August Peak Hours
 
