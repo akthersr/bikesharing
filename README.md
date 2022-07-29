@@ -41,22 +41,21 @@ The below image shows that,the younger riders tend to use the bikes for longer p
 
 ### August Peak Hours
 
-The following bar chart shows that, the top riding hours during August in New York City are 5:00 p.m to 7:00 p.m and the ideal time for bike maintaince are between 
-2:00 a.m. to 5:00 a.m. According to the analysis we found that,this was the least active time for bike riding.
+The following bar chart shows that, the top riding hours during August in New York City are 5:00 p.m to 7:00 p.m and the ideal time for bike maintaince and redistribution of bikes, are between 2:00 a.m. to 5:00 a.m. According to the analysis we found that,this was the least active time for bike riding. From the chart, we can see bike usage in peak during morning rush hours and end of the office hours.
 
 ![](https://github.com/akthersr/bikesharing/blob/main/august%20pick%20.png)
 
 ### Top Starting Locations
 
-The below image shows that most trips originate in Manhattan, this area have more bike rides due to the number of tourists.
+The below image shows that most trips originate in Lower Manhattan, this area have more bike rides due to the heavy number of tourists.We can visulize from the map that the bike trips originating in the business district,Lower Manhattan. The darkness of the green color and the size of the circles indicate the number of trips originated at those points.On the otherhand, in the less densely populated neibourhoods,the bike usage rate is less than Downtown Manhattan.
 
 ![](https://github.com/akthersr/bikesharing/blob/main/top%20starting%20locations.png)
 
-![](https://github.com/akthersr/bikesharing/blob/main/top%207.png)
+![]()
 
 ### Top Ending Locations
 
-The destinations of most trips are same stations where the riders are started their trips.
+The destinations of most trips are same stations where the riders are started their trips. The top ending locations are in the tourist and busy areas,here we can see in Manhattan.
 
 ![](https://github.com/akthersr/bikesharing/blob/main/top%20ending%20locations1.png)
 
