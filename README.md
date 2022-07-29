@@ -59,5 +59,49 @@ The destinations of most trips are same stations where the riders are started th
 
 ![](https://github.com/akthersr/bikesharing/blob/main/top%20ending%20locations1.png)
 
+### Checkout times for users
 
-n
+The checkout time for most users are less than 20 minutes. The cohort shows, the trips are very short. 
+
+![]()
+
+### Checkout times by gender
+
+According to the data, about 2.3 million people use the Citi Bike service, among them Male users use 3X then Female users.The number of users for both Male and Female are almost same. The trip durations for both gender are very short,but Male takes slightly longer trips than Female.
+
+![]()
+
+### Trips by Weekday per Hour
+
+Most trips occur on weekdays during rush hours from 7 a.m. to 9 a.m. and 5 p.m to 7 p.m. On weekends, most trips occur in between 10 a.m and 5 p.m.The trend shows Saturday is also a busy day for bike users during weekends. In weekdays,the busiest time to rent bike for going to office and coming back home from work. An interesting finding is the low usage of bike during Wednesday's end-of-commute.
+
+![]()
+
+### Trips by Gender
+
+The heatmap shows breakdown of the number of bike trips by gender for each hour of each day of the week. The pattern indicates that Males dominantely rent bikes more than Females over the course of each week. The below image show clear peak times in deep red which are to and from work.
+
+![]()
+
+### User Trips by Gender by Weekday 
+
+In this visualization, we create a heatmap that shows the number of bike trips broken down by gender for each day of the week by each Usertype. The trend shows that the current subscribers to Citi Bike are dominently Male,but the customers are evenly distributed for both genders. The dark blue area represents the peak time for both genders by weekday and weekends.
+
+![]()
+
+### Summary
+
+In conclusion, bikesharing services like CitiBike service are popular in bussiness areas(like NYC). NYC has a high density of residents who live in the city,known for towering office buildings, densely packed residential skyscrapers and entertainment venues. Most users base are Male subscribers,provides regular bussiness to tne program.It evident from the analysis that most users use this service for commute to work in weekdays and main usage seems to be in morning & evening commute times.The bikes usage is very frequent in commercial areas,some bikes are used more than others and needs more survicing.
+
+  This analysis gives us an idea of what Des Moines bike share program could look like, using data from NYC in August. The key points to note for Des Moines program are, high traffic tourist and office areas like downtown Manhattan would be served.For Des Moines, if there is good advertisement,promotional offers and proper marketing,the number of customers,subscribers could increase. As a result,this could increase tourism revenue across the city.
+  
+### Future Analysis
+
+- Trips starting and ending locations during morning and evening rush hour times on a week,comparison to other locations.
+- We can create a visualization map in most populer routes by starting and ending stations.
+
+
+
+
+
+
