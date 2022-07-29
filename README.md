@@ -63,31 +63,31 @@ The destinations of most trips are same stations where the riders are started th
 
 The checkout time for most users are less than 20 minutes. The cohort shows, the trips are very short. 
 
-![]()
+![](https://github.com/akthersr/bikesharing/blob/main/Checkout%20Times%20for%20Users.png)
 
 ### Checkout times by gender
 
 According to the data, about 2.3 million people use the Citi Bike service, among them Male users use 3X then Female users.The number of users for both Male and Female are almost same. The trip durations for both gender are very short,but Male takes slightly longer trips than Female.
 
-![]()
+![](https://github.com/akthersr/bikesharing/blob/main/Checkout%20Times%20for%20genders.png)
 
 ### Trips by Weekday per Hour
 
 Most trips occur on weekdays during rush hours from 7 a.m. to 9 a.m. and 5 p.m to 7 p.m. On weekends, most trips occur in between 10 a.m and 5 p.m.The trend shows Saturday is also a busy day for bike users during weekends. In weekdays,the busiest time to rent bike for going to office and coming back home from work. An interesting finding is the low usage of bike during Wednesday's end-of-commute.
 
-![]()
+![](https://github.com/akthersr/bikesharing/blob/main/Trips%20by%20Weekday%20for%20Each%20Hour.png)
 
 ### Trips by Gender
 
 The heatmap shows breakdown of the number of bike trips by gender for each hour of each day of the week. The pattern indicates that Males dominantely rent bikes more than Females over the course of each week. The below image show clear peak times in deep red which are to and from work.
 
-![]()
+![](https://github.com/akthersr/bikesharing/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
 ### User Trips by Gender by Weekday 
 
 In this visualization, we create a heatmap that shows the number of bike trips broken down by gender for each day of the week by each Usertype. The trend shows that the current subscribers to Citi Bike are dominently Male,but the customers are evenly distributed for both genders. The dark blue area represents the peak time for both genders by weekday and weekends.
 
-![]()
+![](https://github.com/akthersr/bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Weekday%20.png)
 
 ### Summary
 
