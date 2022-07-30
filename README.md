@@ -8,7 +8,7 @@ Two tourists from Des Moines,Iowa was fascinated by the NYC Citi Bike sharing se
 
 The main purpose of this analysis is to create effective visualizations from the Citi Bike data, by using Tableau Public to impress potential investors, to solidify the proposal.In this visualization, we are going to use the data from August month, because there is more traffic during the summer months.
 
-The visualization of the story can be found here.
+The visualization of the story can be found here.[link](https://public.tableau.com/app/profile/sharmin.akther/viz/CitiBikeDataViz_16591607771860/Story1)
 
 ## Resources
 
